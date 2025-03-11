@@ -1,0 +1,1379 @@
+{
+    "2025-03-11": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-03-12": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-13": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-14": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-15": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-03-16": [
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-03-18": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-19": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-03-20": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-21": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-03-22": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-24": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-03-25": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-26": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-27": [
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-03-28": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-29": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-03-30": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Mobility Training",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-03-31": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-04-01": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-04-03": [
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-04-04": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-05": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-06": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-07": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-08": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-09": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        },
+        {
+            "activity": "Meal Consumption - Protein Rich",
+            "facilitator": "Dietitian",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-04-10": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-11": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-04-12": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-04-13": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-14": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-04-15": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-16": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-17": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-18": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-19": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-04-20": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-04-21": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-04-22": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-23": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-04-24": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-25": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-26": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-28": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-04-29": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        },
+        {
+            "activity": "Meal Consumption - Protein Rich",
+            "facilitator": "Dietitian",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-04-30": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Meal Consumption - Protein Rich",
+            "facilitator": "Dietitian",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-05-01": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-02": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-03": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-05-05": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-06": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-07": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-08": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-05-10": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-05-11": [
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-05-12": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-13": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-14": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-16": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-05-17": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-18": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-05-19": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-05-20": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-21": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-22": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-23": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-24": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-05-25": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-05-27": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-29": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-05-30": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-05-31": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-06-01": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Stand-Up Paddleboarding",
+            "facilitator": "Doctor",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-06-02": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Intermittent Fasting",
+            "facilitator": "Dietitian",
+            "frequency": "Once a week"
+        },
+        {
+            "activity": "Meal Consumption - Protein Rich",
+            "facilitator": "Dietitian",
+            "frequency": "Twice a week"
+        }
+    ],
+    "2025-06-03": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Meal Consumption - Protein Rich",
+            "facilitator": "Dietitian",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Sauna Therapy",
+            "facilitator": "Dietitian",
+            "frequency": "Every other day"
+        }
+    ],
+    "2025-06-04": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-06-05": [
+        {
+            "activity": "Archery",
+            "facilitator": "Trainer",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Calisthenics",
+            "facilitator": "Trainer",
+            "frequency": "Once a week"
+        }
+    ],
+    "2025-06-06": [
+        {
+            "activity": "Skiing",
+            "facilitator": "Dietitian",
+            "frequency": "3 times a week"
+        },
+        {
+            "activity": "Gardening Therapy",
+            "facilitator": "Trainer",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Running",
+            "facilitator": "Trainer",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-06-07": [
+        {
+            "activity": "Acting Therapy",
+            "facilitator": "Doctor",
+            "frequency": "4 times a week"
+        },
+        {
+            "activity": "Meditation",
+            "facilitator": "Doctor",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Swimming",
+            "facilitator": "Doctor",
+            "frequency": "3 times a week"
+        }
+    ],
+    "2025-06-08": [
+        {
+            "activity": "Chiropractic Adjustment",
+            "facilitator": "Physiotherapist",
+            "frequency": "Twice a week"
+        },
+        {
+            "activity": "Sensory Deprivation",
+            "facilitator": "Physiotherapist",
+            "frequency": "Daily"
+        },
+        {
+            "activity": "Reflexology",
+            "facilitator": "Dietitian",
+            "frequency": "Every other day"
+        }
+    ]
+}
