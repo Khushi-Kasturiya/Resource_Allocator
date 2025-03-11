@@ -1,4 +1,4 @@
-# Elyx Life Activity Scheduler
+# Resource Allocator
 
 A Python-based resource allocator system that generates and manages activity plans based on facilitator availability and activity frequencies.
 
